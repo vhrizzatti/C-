@@ -12,3 +12,4 @@ C:\Users\victo\OneDrive\Área de Trabalho\C#\MeuProjeto\obj\Debug\net8.0\refint\
 C:\Users\victo\OneDrive\Área de Trabalho\C#\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
 C:\Users\victo\OneDrive\Área de Trabalho\C#\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Área de Trabalho\C#\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\C#\MeuProjeto\obj\Debug\net8.0\MeuProjeto.sourcelink.json
